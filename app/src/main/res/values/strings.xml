@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quản lý thư viên</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="questionSignup">
+        Bạn đã có tài khoản chưa?<u> Đăng ký</u>
+    </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="channel_name">notification_chanel_1</string>
+    <string name="channel_description">channel_description</string>
+
+</resources>
